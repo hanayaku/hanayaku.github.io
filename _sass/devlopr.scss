@@ -240,7 +240,7 @@ header {
 }
 
 .navbar-dark .navbar-brand {
-    color: #ff7601 !important;
+    color: #FA8072 !important;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: var(--nav-link-color) !important;
@@ -316,7 +316,7 @@ header {
         width: 5%;
         cursor: pointer;
         text-align: center;
-        color: orange;
+        color: #FA8072;
 
       .icon {
         vertical-align: text-top;
@@ -324,7 +324,7 @@ header {
         fill: #fff;
 
         &:hover {
-          fill: orange;
+          fill: #FA8072;
           transform: rotate(90deg);
         }
       }
@@ -405,12 +405,12 @@ header {
         text-decoration: none;
         font-size: 25px;
         line-height: 25px;
-        color: orange !important;
+        color: #FA8072 !important;
         text-decoration: none;
       }
 
       &__date {
-        color: orange;
+        color: #FA8072;
         font-size: 15px;
         line-height: 15px;
       }
@@ -652,7 +652,7 @@ header {
 }
 .article-card-link, .article-card-link:hover{
     text-decoration: none;
-    color: orange !important;
+    color: #FA8072 !important;
 }
 .article-card{
     list-style-type: none;

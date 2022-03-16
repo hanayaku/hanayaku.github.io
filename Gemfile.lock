@@ -34,6 +34,7 @@ GEM
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
     ffi (1.15.5)
+    ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (1.10.0)
@@ -140,11 +141,12 @@ GEM
 
 PLATFORMS
   universal-darwin-21
+  x64-mingw-ucrt
   x86_64-linux
 
 DEPENDENCIES
   bundler (~> 2.3.8)
-  jekyll (~> 4.2, >= 4.1.1)
+  jekyll (~> 4.2)
   jekyll-admin (~> 0.11.0)
   jekyll-feed (~> 0.13.0)
   jekyll-gist (~> 1.5.0)
@@ -162,4 +164,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.3.8
+   2.3.9
