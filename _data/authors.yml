@@ -47,3 +47,14 @@ xplor4r:
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
 
+hana:
+  name: hana
+  username: 一只花熊
+  site:  https://hanayaku.github.io/
+  avatar: hana.jpg
+  bio: "Full Stack Web Developer, China"
+  email: hanayaku@qq.com
+  social:
+    - title: "github"
+      url: "https://github.com/hanayaku"
+
