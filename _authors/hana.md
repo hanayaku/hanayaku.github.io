@@ -1,6 +1,6 @@
 ---
 name: hana
-username: 一只花熊
+username: hana
 bio: "Full Stack Web Developer, China"
 site: https://hanayaku.github.io/
 avatar: hana.gif

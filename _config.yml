@@ -1,5 +1,5 @@
-title: 一只花熊
-subtitle: a cute blog
+title: hana
+subtitle: 
 description: >- # this means to ignore newlines until "baseurl:"
   ha.
 
@@ -17,7 +17,7 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: 一只花熊
+author: hana
 author_bio: Hi, my name is hana.
 author_email: ""
 author_location: china
